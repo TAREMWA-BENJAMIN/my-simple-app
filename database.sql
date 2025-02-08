@@ -1,6 +1,6 @@
-create database test;
+create database my_simple_app;
 
-use test;
+use my_simple_app;
 
 CREATE TABLE `users` (
   `id` int(11) NOT NULL auto_increment,
